@@ -124,7 +124,7 @@ Example final result:
 - Supporting Evidence: temperature spike, pressure rise, anomaly detection, supporting SOPs
 
 ### 🗂️ Project Structure
-
+```text
 rca-agentic-ai/
 │
 ├── agents/
@@ -161,7 +161,7 @@ rca-agentic-ai/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## ⚙️ Architecture
 
