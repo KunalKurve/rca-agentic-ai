@@ -26,6 +26,20 @@ This project automates that reasoning workflow through a **multi-agent LangGraph
 
 ---
 
+## 🚀 Live Demo
+
+[Try the app on Hugging Face Spaces](https://huggingface.co/spaces/kunalkurve219/rca-agentic-ai)
+
+## 📸 Screenshots
+
+### Live Agentic Execution
+![Live Agentic Execution](screenshots/live_execution.png)
+
+### Final RCA Report
+![Final RCA Report](screenshots/final_report.png)
+
+---
+
 ## ⚙️ Workflow
 
 The system executes the following agentic workflow:
@@ -208,8 +222,6 @@ Start → Classify → Route → RetrieveLogs → RetrieveMaintenance → Detect
 For unsupported queries:
 
 Start → Classify → Route → Synthesize
-
-### 🧪 Sample Output
 
 
 ### 🧰 Tech Stack
