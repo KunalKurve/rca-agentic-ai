@@ -1,0 +1,8 @@
+Title: Reactor R-204 SOP and Incident Summary
+
+Reactor R-204 can trip when cooling flow is insufficient.
+A previous major incident involved chiller C3 malfunction, which caused over-temperature conditions and eventual reactor trip.
+Recommended actions:
+- inspect chiller C3
+- validate coolant flow readings
+- review alarm thresholds

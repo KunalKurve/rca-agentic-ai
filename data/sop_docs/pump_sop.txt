@@ -1,0 +1,8 @@
+Title: Pump P-101 SOP and Incident Summary
+
+Pump P-101 may fail after prolonged vibration increase.
+A prior failure was traced to motor shaft misalignment and worn coupling.
+Recommended actions:
+- realign motor shaft
+- inspect coupling
+- inspect bearings

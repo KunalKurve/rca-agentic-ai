@@ -1,0 +1,5 @@
+Title: Cooling Failure Historical Report
+
+In one past event, abnormal pressure and temperature increases were observed before trip.
+Root cause was traced to cooling subsystem degradation and poor coolant circulation.
+Corrective action included chiller inspection and coolant line validation.

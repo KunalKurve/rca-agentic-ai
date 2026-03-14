@@ -1,0 +1,5 @@
+date,equipment,maintenance_type,notes
+2025-06-10,R-204,cooling_inspection,Minor fluctuation observed in coolant flow
+2025-06-15,R-204,sensor_calibration,Temperature sensor recalibrated
+2025-06-12,P-101,bearing_check,Slight wear observed in coupling
+2025-06-18,P-101,alignment_check,Shaft alignment deviation noted

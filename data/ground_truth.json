@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Why did reactor R-204 trip?",
+    "expected_root_cause": "Chiller C3 malfunction"
+  },
+  {
+    "query": "Why did pump P-101 fail?",
+    "expected_root_cause": "Motor shaft misalignment"
+  }
+]
