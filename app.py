@@ -2,7 +2,12 @@ import streamlit as st
 from langgraph_flow import flow
 from utils.logger import log_run
 from datetime import datetime
+import os
+from utils.build_index import build_faiss_index
 
+if not os.path.exists("embeddings/sop_faiss_index.pkl"):
+    build_faiss_index()
+    
 st.set_page_config(page_title="Agentic RCA System", layout="wide")
 st.title("🔍 Agentic AI Root Cause Analysis System")
 
